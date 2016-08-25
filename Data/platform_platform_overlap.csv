@@ -1,0 +1,51 @@
+platform,platform,count(*)
+,,12
+,Computer,9
+,Mobile,6
+,Tablet,5
+,Unspecified,9
+Big screen,Big screen,425
+Big screen,Computer,274
+Big screen,Mobile,110
+Big screen,Tablet,145
+Big screen,Unknown,3
+Big screen,Unspecified,167
+Computer,Computer,104359
+Computer,Glastonbury,1
+Computer,Mobile,41030
+Computer,Tablet,30581
+Computer,Unknown,4093
+Computer,Unspecified,41226
+Glastonbury,Glastonbury,1
+Glastonbury,Mobile,1
+Mobile,Mobile,107341
+Mobile,Tablet,50423
+Mobile,Unknown,3151
+Mobile,Unspecified,40952
+Tablet,Tablet,86613
+Tablet,Unknown,960
+Tablet,Unspecified,32412
+Unknown,Unknown,4519
+Unknown,Unspecified,3452
+Unspecified,Unspecified,65063
+Computer,,9
+Mobile,,6
+Tablet,,5
+Unspecified,,9
+Computer,Big screen,274
+Mobile,Big screen,110
+Tablet,Big screen,145
+Unknown,Big screen,3
+Unspecified,Big screen,167
+Glastonbury,Computer,1
+Mobile,Computer,41030
+Tablet,Computer,30581
+Unknown,Computer,4093
+Unspecified,Computer,41226
+Mobile,Glastonbury,1
+Tablet,Mobile,50423
+Unknown,Mobile,3151
+Unspecified,Mobile,40952
+Unknown,Tablet,960
+Unspecified,Tablet,32412
+Unspecified,Unknown,3452

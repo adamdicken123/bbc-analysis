@@ -1,0 +1,159 @@
+platform,number_of_visiting_days,count(*)
+,1,8
+,2,1
+,6,1
+,10,1
+,19,1
+"Big screen",1,280
+"Big screen",2,26
+"Big screen",3,16
+"Big screen",4,10
+"Big screen",5,12
+"Big screen",6,7
+"Big screen",7,8
+"Big screen",8,10
+"Big screen",9,3
+"Big screen",10,3
+"Big screen",11,4
+"Big screen",12,5
+"Big screen",13,5
+"Big screen",14,1
+"Big screen",15,3
+"Big screen",16,4
+"Big screen",17,1
+"Big screen",18,5
+"Big screen",19,3
+"Big screen",20,3
+"Big screen",21,3
+"Big screen",22,3
+"Big screen",23,2
+"Big screen",24,3
+"Big screen",25,2
+"Big screen",26,1
+"Big screen",27,2
+Computer,1,29071
+Computer,2,13806
+Computer,3,8836
+Computer,4,6921
+Computer,5,5262
+Computer,6,4754
+Computer,7,4276
+Computer,8,3891
+Computer,9,3049
+Computer,10,2829
+Computer,11,2608
+Computer,12,2443
+Computer,13,2283
+Computer,14,2087
+Computer,15,1876
+Computer,16,1814
+Computer,17,1629
+Computer,18,1577
+Computer,19,1210
+Computer,20,1041
+Computer,21,847
+Computer,22,682
+Computer,23,534
+Computer,24,404
+Computer,25,314
+Computer,26,221
+Computer,27,94
+Glastonbury,1,1
+Mobile,1,35088
+Mobile,2,16200
+Mobile,3,10002
+Mobile,4,7853
+Mobile,5,6022
+Mobile,6,4335
+Mobile,7,3288
+Mobile,8,2775
+Mobile,9,2327
+Mobile,10,2107
+Mobile,11,1990
+Mobile,12,1719
+Mobile,13,1511
+Mobile,14,1387
+Mobile,15,1275
+Mobile,16,1208
+Mobile,17,1075
+Mobile,18,950
+Mobile,19,953
+Mobile,20,893
+Mobile,21,908
+Mobile,22,879
+Mobile,23,791
+Mobile,24,680
+Mobile,25,544
+Mobile,26,405
+Mobile,27,176
+Tablet,1,25937
+Tablet,2,11354
+Tablet,3,5875
+Tablet,4,4536
+Tablet,5,3900
+Tablet,6,3397
+Tablet,7,2816
+Tablet,8,2198
+Tablet,9,2106
+Tablet,10,1888
+Tablet,11,1803
+Tablet,12,1713
+Tablet,13,1663
+Tablet,14,1641
+Tablet,15,1510
+Tablet,16,1493
+Tablet,17,1450
+Tablet,18,1390
+Tablet,19,1282
+Tablet,20,1364
+Tablet,21,1342
+Tablet,22,1290
+Tablet,23,1272
+Tablet,24,1236
+Tablet,25,1019
+Tablet,26,794
+Tablet,27,344
+Unknown,1,4311
+Unknown,2,98
+Unknown,3,31
+Unknown,4,19
+Unknown,5,19
+Unknown,6,11
+Unknown,7,8
+Unknown,8,2
+Unknown,9,5
+Unknown,10,4
+Unknown,11,3
+Unknown,12,1
+Unknown,13,2
+Unknown,15,2
+Unknown,17,1
+Unknown,18,1
+Unknown,23,1
+Unspecified,1,33669
+Unspecified,2,10916
+Unspecified,3,6282
+Unspecified,4,3380
+Unspecified,5,1931
+Unspecified,6,1505
+Unspecified,7,1331
+Unspecified,8,1140
+Unspecified,9,999
+Unspecified,10,789
+Unspecified,11,601
+Unspecified,12,538
+Unspecified,13,472
+Unspecified,14,486
+Unspecified,15,429
+Unspecified,16,271
+Unspecified,17,94
+Unspecified,18,38
+Unspecified,19,30
+Unspecified,20,31
+Unspecified,21,25
+Unspecified,22,19
+Unspecified,23,23
+Unspecified,24,25
+Unspecified,25,21
+Unspecified,26,11
+Unspecified,27,7
